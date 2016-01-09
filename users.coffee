@@ -4,9 +4,22 @@ inquirer = require 'inquirer'
 Steam = require 'steam'
 
 POSSIBLE_GAMES = [
-  {name: 'CS 1.6', value: '10', checked: true}
-  {name: 'CS Source', value: '240', checked: true}
+  {name: 'PayDay2', value: '218620', checked: true}
+  {name: 'Rocket League', value: '252950', checked: true}
   {name: 'CS GO', value: '730', checked: true}
+  {name: 'SaintsRowThird', value: '55230', checked: true}
+  {name: 'Sam3BFE', value: '41070', checked: true}
+  {name: 'WolfenNewORder', value: '201810', checked: true}
+  {name: 'h1z1', value: '295110', checked: true}
+  {name: 'h1z1Serv', value: '362300', checked: true}
+  {name: 'Postal2', value: '223470', checked: true}
+  {name: 'DontStarve', value: '219740', checked: true}
+  {name: 'CallOfDutyBO3', value: '311210', checked: true}
+  {name: 'WhySoEvil', value: '331710', checked: true}
+  {name: 'WhySoEvil2', value: '354850', checked: true}
+  {name: 'WarThunder', value: '236390', checked: true}
+  {name: 'GridAutosport', value: '255220', checked: true}
+  {name: 'Nux', value: '307350', checked: true}
   {name: 'Dota 2', value: '570'}
 ]
 
